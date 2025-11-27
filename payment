@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Payment - Mini E‑Commerce</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+<h1>Payment Page</h1>
+<nav>
+<a href="home.html">Home</a>
+<a href="products.html">Products</a>
+<a href="payment.html">Payment</a>
+<a href="about.html">About Us</a>
+</nav>
+</header>
+
+
+<section class="payment">
+<h2>Enter Details</h2>
+<form>
+<label>Name</label>
+<input type="text" required />
+
+
+<label>Card Number</label>
+<input type="text" required />
+
+
+<label>Address</label>
+<input type="text" required />
+
+
+<button class="btn">Pay Now</button>
+</form>
+</section>
+</body>
+</html>
