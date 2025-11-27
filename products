@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Products - Mini E‑Commerce</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+<h1>Products</h1>
+<nav>
+<a href="home.html">Home</a>
+<a href="products.html">Products</a>
+<a href="payment.html">Payment</a>
+<a href="about.html">About Us</a>
+</nav>
+</header>
+
+
+<section class="products">
+<div class="product-card">
+<h3>Product 1</h3>
+<p>₹499</p>
+<a class="btn" href="payment.html">Buy Now</a>
+</div>
+
+
+<div class="product-card">
+<h3>Product 2</h3>
+<p>₹799</p>
+<a class="btn" href="payment.html">Buy Now</a>
+</div>
+
+
+<div class="product-card">
+<h3>Product 3</h3>
+<p>₹999</p>
+<a class="btn" href="payment.html">Buy Now</a>
+</div>
+</section>
+</body>
+</html>
